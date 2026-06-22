@@ -1,0 +1,19 @@
+# Temporary JDK directory
+/jdk-temp/
+
+# Android / IntelliJ / Gradle ignore rules
+.gradle/
+.kotlin/
+build/
+/calavera-app/build/
+/calavera-app/app/build/
+/calavera-app/.gradle/
+/calavera-app/.kotlin/
+local.properties
+/calavera-app/local.properties
+*.iml
+.idea/
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
